@@ -1,0 +1,182 @@
+[
+  {
+    "nome_praia": "Praia de Boa Viagem (Posto 3 - Pina)",
+    "municipio": "Recife",
+    "status": "Própria",
+    "data_medicao": "18/11/2026",
+    "latitude": -8.1125,
+    "longitude": -34.8912,
+    "motivo_interdicao": ""
+  },
+  {
+    "nome_praia": "Praia de Boa Viagem (Posto 8 - Acaiaca)",
+    "municipio": "Recife",
+    "status": "Própria",
+    "data_medicao": "18/11/2026",
+    "latitude": -8.1284,
+    "longitude": -34.8978,
+    "motivo_interdicao": ""
+  },
+  {
+    "nome_praia": "Praia do Pina",
+    "municipio": "Recife",
+    "status": "Atenção",
+    "data_medicao": "18/11/2026",
+    "latitude": -8.0933,
+    "longitude": -34.8825,
+    "motivo_interdicao": "Elevada contaminação por coliformes térmicos após pluviosidade"
+  },
+  {
+    "nome_praia": "Praia dos Milagres",
+    "municipio": "Olinda",
+    "status": "Imprópria",
+    "data_medicao": "18/11/2026",
+    "latitude": -8.0267,
+    "longitude": -34.8489,
+    "motivo_interdicao": "Descarte de efluentes domésticos e esgoto in natura"
+  },
+  {
+    "nome_praia": "Praia de Bairro Novo",
+    "municipio": "Olinda",
+    "status": "Própria",
+    "data_medicao": "18/11/2026",
+    "latitude": -8.0105,
+    "longitude": -34.8421,
+    "motivo_interdicao": ""
+  },
+  {
+    "nome_praia": "Praia de Casa Caiada",
+    "municipio": "Olinda",
+    "status": "Atenção",
+    "data_medicao": "18/11/2026",
+    "latitude": -7.9942,
+    "longitude": -34.8364,
+    "motivo_interdicao": "Proximidade com foz de canal de drenagem urbana"
+  },
+  {
+    "nome_praia": "Praia de Rio Doce",
+    "municipio": "Olinda",
+    "status": "Imprópria",
+    "data_medicao": "18/11/2026",
+    "latitude": -7.9781,
+    "longitude": -34.829,
+    "motivo_interdicao": "Presença de resíduos sólidos e contaminação orgânica"
+  },
+  {
+    "nome_praia": "Praia de Piedade",
+    "municipio": "Jaboatão dos Guararapes",
+    "status": "Própria",
+    "data_medicao": "18/11/2026",
+    "latitude": -8.1633,
+    "longitude": -34.9142,
+    "motivo_interdicao": ""
+  },
+  {
+    "nome_praia": "Praia de Candeias",
+    "municipio": "Jaboatão dos Guararapes",
+    "status": "Própria",
+    "data_medicao": "18/11/2026",
+    "latitude": -8.1889,
+    "longitude": -34.9221,
+    "motivo_interdicao": ""
+  },
+  {
+    "nome_praia": "Praia de Barra de Lama",
+    "municipio": "Jaboatão dos Guararapes",
+    "status": "Imprópria",
+    "data_medicao": "18/11/2026",
+    "latitude": -8.2167,
+    "longitude": -34.9312,
+    "motivo_interdicao": "Efluentes de galerias pluviais com alta carga bacteriana"
+  },
+  {
+    "nome_praia": "Praia de Porto de Galinhas (Vila)",
+    "municipio": "Ipojuca",
+    "status": "Própria",
+    "data_medicao": "18/11/2026",
+    "latitude": -8.5066,
+    "longitude": -35.0003,
+    "motivo_interdicao": ""
+  },
+  {
+    "nome_praia": "Praia de Muro Alto",
+    "municipio": "Ipojuca",
+    "status": "Própria",
+    "data_medicao": "18/11/2026",
+    "latitude": -8.4528,
+    "longitude": -34.9814,
+    "motivo_interdicao": ""
+  },
+  {
+    "nome_praia": "Praia do Cupe",
+    "municipio": "Ipojuca",
+    "status": "Própria",
+    "data_medicao": "18/11/2026",
+    "latitude": -8.4739,
+    "longitude": -34.9886,
+    "motivo_interdicao": ""
+  },
+  {
+    "nome_praia": "Praia de Maracaípe",
+    "municipio": "Ipojuca",
+    "status": "Atenção",
+    "data_medicao": "18/11/2026",
+    "latitude": -8.5303,
+    "longitude": -35.0119,
+    "motivo_interdicao": "Influência do estuário do Rio Maracaípe durante maré vazante"
+  },
+  {
+    "nome_praia": "Praia de Gaibu",
+    "municipio": "Cabo de Santo Agostinho",
+    "status": "Própria",
+    "data_medicao": "18/11/2026",
+    "latitude": -8.3314,
+    "longitude": -34.9453,
+    "motivo_interdicao": ""
+  },
+  {
+    "nome_praia": "Praia de Calhetas",
+    "municipio": "Cabo de Santo Agostinho",
+    "status": "Própria",
+    "data_medicao": "18/11/2026",
+    "latitude": -8.3444,
+    "longitude": -34.9458,
+    "motivo_interdicao": ""
+  },
+  {
+    "nome_praia": "Praia de Suape",
+    "municipio": "Cabo de Santo Agostinho",
+    "status": "Atenção",
+    "data_medicao": "18/11/2026",
+    "latitude": -8.3619,
+    "longitude": -34.9603,
+    "motivo_interdicao": "Tráfego aquaviário e turbidez pela atividade portuária"
+  },
+  {
+    "nome_praia": "Praia dos Carneiros",
+    "municipio": "Tamandaré",
+    "status": "Própria",
+    "data_medicao": "18/11/2026",
+    "latitude": -8.7061,
+    "longitude": -35.0772,
+    "motivo_interdicao": ""
+  },
+  {
+    "nome_praia": "Praia de Tamandaré",
+    "municipio": "Tamandaré",
+    "status": "Própria",
+    "data_medicao": "18/11/2026",
+    "latitude": -8.7578,
+    "longitude": -35.1053,
+    "motivo_interdicao": ""
+  },
+  {
+    "nome_praia": "Praia de Forte Orange",
+    "municipio": "Itamaracá",
+    "status": "Própria",
+    "data_medicao": "18/11/2026",
+    "latitude": -7.8106,
+    "longitude": -34.8389,
+    "motivo_interdicao": ""
+  }
+]
