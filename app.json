@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "expo-status-bar"
+  ],
+  "extra": {
+    "eas": {
+      "projectId": "ac93c203-2a19-4523-8bc3-340f4553e3a7"
+    }
+  },
+  "owner": "grazi_og",
+  "slug": "aviso-de-praias"
+}
